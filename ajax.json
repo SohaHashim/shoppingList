@@ -1,0 +1,85 @@
+{
+    "products":[
+        {
+            "SerialNumber": "1",
+            "Name": "Hand sanitizer",
+            "Quantity": "200",
+            "Unit": "ml",
+            "Department": "Health & Personal care",
+            "Notes": "Dettol"
+        },
+        {
+            "SerialNumber": "2",
+            "Name": "Milk",
+            "Quantity": "1",
+            "Unit": "L",
+            "Department": "Household supplies",
+            "Notes": "Milma"
+        },
+        {
+            "SerialNumber": "3",
+            "Name": "Onion",
+            "Quantity": "2",
+            "Unit": "kg",
+            "Department": "Household supplies",
+            "Notes": "Red onions"
+        },
+        {
+            "SerialNumber": "4",
+            "Name": "Garlic",
+            "Quantity": "500",
+            "Unit": "gm",
+            "Department": "Household supplies",
+            "Notes": "Hardneck garlic"
+        },
+        {
+            "SerialNumber": "5",
+            "Name": "butter",
+            "Quantity": "200",
+            "Unit": "gm",
+            "Department": "Household supplies",
+            "Notes": "Amul"
+        },
+        {
+            "SerialNumber": "6",
+            "Name": "Rice",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Household supplies",
+            "Notes": "Kuruva"
+        },
+        {
+            "SerialNumber": "7",
+            "Name": "Tomato",
+            "Quantity": "0.5",
+            "Unit": "Kg",
+            "Department": "Household supplies",
+            "Notes": "Cherry tomatoes"
+        },
+        {
+            "SerialNumber": "8",
+            "Name": "Shower gel",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Personal care",
+            "Notes": "LUX"
+        },
+        {
+            "SerialNumber": "9",
+            "Name": "Shampoo",
+            "Quantity": "100",
+            "Unit": "ml",
+            "Department": "Personal care",
+            "Notes": "Herbal essence"
+        },
+        {
+            "SerialNumber": "10",
+            "Name": "Burger patty",
+            "Quantity": "300",
+            "Unit": "gm",
+            "Department": "Household supplies",
+            "Notes": "Sunbulla"
+        }
+
+    ]
+}
